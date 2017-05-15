@@ -58,6 +58,6 @@ function Statement(){
 
 //This functions grabs a picture of the canvas while it only displays the rawdata. Afterwards the canvas gets enlarged to display the whole image.
 function canvasGrab(){
-  saveCanvas('rawData/RawStatement.png', 'png');
+  saveCanvas('rawData/RawStatement2.png', 'png');
   console.log("Picture has been grabbed!");
 }
